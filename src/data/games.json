@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers to get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "accent": "#edc22e"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "A fast-paced puzzle game inspired by Tetris on a hexagonal grid.",
+    "url": "https://hextris.io/",
+    "category": "Arcade",
+    "accent": "#e74c3c"
+  },
+  {
+    "id": "clumsy-bird",
+    "title": "Clumsy Bird",
+    "description": "A Flappy Bird clone. How far can you fly?",
+    "url": "https://ellisonleao.github.io/clumsy-bird/",
+    "category": "Arcade",
+    "accent": "#3498db"
+  },
+  {
+    "id": "tower-game",
+    "title": "Tower Game",
+    "description": "Build the tallest tower by stacking blocks.",
+    "url": "https://www.towergame.app/",
+    "category": "Casual",
+    "accent": "#9b59b6"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "The classic arcade game. Eat pellets, avoid ghosts.",
+    "url": "https://macek.github.io/google_pacman/",
+    "category": "Classic",
+    "accent": "#f1c40f"
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters",
+    "description": "High-octane drifting simulator.",
+    "url": "https://www.drift-hunters.com/",
+    "category": "Racing",
+    "accent": "#2ecc71"
+  }
+]
