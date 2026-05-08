@@ -1,6 +1,7 @@
 node_modules/
 build/
-dist/
+# dist/ is removed to allow uploading to branch per user request
+# dist/
 coverage/
 .DS_Store
 *.log
